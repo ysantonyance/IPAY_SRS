@@ -94,11 +94,11 @@ Amazon Clone розробляється як самостійний навчал
 | Компонент | Специфікація |
 |---|---|
 | Клієнт | Браузери Chrome, Firefox, Safari, Edge (2 останні версії); роздільна здатність від 320 px |
-| Сервер | ASP.NET Core 8/9, хостинг на IIS / Azure / AWS / VPS |
-| Клієнтський фреймворк | React 18+ (Vite / Next.js за бажанням), Axios, React Router |
+| Сервер | ASP.NET Core 9/10, хостинг на render / Azure / AWS / VPS |
+| Клієнтський фреймворк | React 19+ (Vite / Next.js за бажанням), Axios, React Router |
 | Серверний фреймворк | ASP.NET Core Web API, ASP.NET Core Identity |
 | База даних |**Firebase Firestore** (для real-time фіч, як альтернатива) |
-| ORM / Доступ до даних | EF Core (основний), Dapper (для складних звітів) |
+| Доступ до даних / ODM | Firebase SDK, Firebase Data Connectors / Firestore Data Converters) |
 | Real-time | SignalR (сповіщення про статус замовлення, чат підтримки) |
 | Архітектура | Clean Architecture / Onion Architecture |
 | Мови інтерфейсу | Українська (uk-UA), Англійська (en-US) |
