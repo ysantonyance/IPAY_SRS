@@ -86,7 +86,7 @@ Amazon Clone is being developed as a standalone educational product from scratch
 |---|---|---|
 | Guest | Unauthenticated visitor | Browse catalog, search, filtering, view product details |
 | Customer | Authenticated user | Cart, checkout, purchase history, reviews, wishlist, profile |
-| Seller(Personal/Business) | Authenticated user+ | Cart, checkout, purchase history, reviews, wishlist, profile, ability to put up items for sale |
+| Seller(Personal/Business) | Authenticated user+ | Cart, checkout, purchase history, reviews, wishlist, profile, ability to put up goods for sale |
 | Administrator | Platform manager | CRUD for products, categories, orders, users; access to analytics |
 | System | Automated processes | Moderation, notifications, cart cleanup, archiving |
 
